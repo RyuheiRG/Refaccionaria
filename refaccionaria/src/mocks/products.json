@@ -1,0 +1,225 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Filtro de aceite",
+        "category": "Filtros",
+        "brand": "ACDelco",
+        "price": 150.00,
+        "stock": 50,
+        "description": "Filtro de aceite de alta eficiencia para motor.",
+        "compatible_models": ["Chevrolet Aveo", "Chevrolet Cruze", "Chevrolet Spark"],
+        "image_url": "https://refaccionariamario.info/28939-large_default/filtro-de-aceite-de-motor-acdelco-para-chevy-corsa-aveo-astra-tornado-ibiza-hummer-ford-buick-dodge-isuzu-cadillac.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Batería de auto",
+        "category": "Baterías",
+        "brand": "LTH",
+        "price": 1800.00,
+        "stock": 20,
+        "description": "Batería de alto rendimiento con garantía de 2 años.",
+        "compatible_models": ["Nissan Sentra", "Nissan Altima", "Nissan Tiida"],
+        "image_url": "https://useast2prodbrandsites.blob.core.windows.net/lth-sfassets-prod/images/default-source/products/product-brands/baterias/lth-nacional/l-99(lbn1)-400-izq.png?sfvrsn=886cdd40_2"
+      },
+      {
+        "id": 3,
+        "name": "Juego de pastillas de freno",
+        "category": "Frenos",
+        "brand": "Bosch",
+        "price": 1200.00,
+        "stock": 35,
+        "description": "Pastillas de freno de larga duración.",
+        "compatible_models": ["Honda Civic", "Honda Accord", "Honda Fit"],
+        "image_url": "https://www.serviclutchyfrenos.com/images/projects/project02.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Amortiguadores",
+        "category": "Suspensión",
+        "brand": "Monroe",
+        "price": 900.00,
+        "stock": 40,
+        "description": "Amortiguadores de gas para mejor absorción de impactos.",
+        "compatible_models": ["Toyota Corolla", "Toyota Camry", "Toyota Yaris"],
+        "image_url": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/a/AmazonStores/A1AM78C64UM0Y8/fbd5264239d1db4bcd4fef9738495f80.w1920.h1080.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Bujías",
+        "category": "Encendido",
+        "brand": "NGK",
+        "price": 100.00,
+        "stock": 100,
+        "description": "Bujías de iridio para un mejor rendimiento del motor.",
+        "compatible_models": ["Mazda 3", "Mazda 6", "Mazda CX-5"],
+        "image_url": "https://m.media-amazon.com/images/I/71vaTpLe27L._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Filtro de aire",
+        "category": "Filtros",
+        "brand": "Mann-Filter",
+        "price": 200.00,
+        "stock": 60,
+        "description": "Filtro de aire de alta eficiencia.",
+        "compatible_models": ["Ford Fiesta", "Ford Focus", "Ford Fusion"],
+        "image_url": "https://m.media-amazon.com/images/I/71-X7StN2ML._AC_UF894,1000_QL80_.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Llanta",
+        "category": "Llantas",
+        "brand": "Michelin",
+        "price": 2500.00,
+        "stock": 30,
+        "description": "Llanta radial de alto rendimiento.",
+        "compatible_models": ["BMW 3 Series", "BMW 5 Series", "BMW X3"],
+        "image_url": "https://llantasdelaustro.com/wp-content/uploads/2022/06/MICHELIN-LTX-FORCE_AUSTRO.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Aceite para motor",
+        "category": "Aceites",
+        "brand": "Mobil 1",
+        "price": 550.00,
+        "stock": 70,
+        "description": "Aceite sintético para motor 5W-30.",
+        "compatible_models": ["Audi A4", "Audi Q5", "Audi A3"],
+        "image_url": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00007192470222L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+      },
+      {
+        "id": 9,
+        "name": "Filtro de combustible",
+        "category": "Filtros",
+        "brand": "Fram",
+        "price": 300.00,
+        "stock": 55,
+        "description": "Filtro de combustible de alta eficiencia.",
+        "compatible_models": ["Hyundai Elantra", "Hyundai Sonata", "Hyundai Tucson"],
+        "image_url": "https://m.media-amazon.com/images/I/71vVhIVYjeL.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Espejo retrovisor",
+        "category": "Accesorios",
+        "brand": "CIPA",
+        "price": 400.00,
+        "stock": 25,
+        "description": "Espejo retrovisor universal.",
+        "compatible_models": ["Volkswagen Jetta", "Volkswagen Golf", "Vol,kswagen Passat"],
+        "image_url": "https://m.media-amazon.com/images/I/41omMX2uzVL._AC_UF894,1000_QL80_.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Filtro de aceite",
+        "category": "Filtros",
+        "brand": "ACDelco",
+        "price": 150.00,
+        "stock": 50,
+        "description": "Filtro de aceite de alta eficiencia para motor.",
+        "compatible_models": ["Chevrolet Aveo", "Chevrolet Cruze", "Chevrolet Spark"],
+        "image_url": "https://refaccionariamario.info/28939-large_default/filtro-de-aceite-de-motor-acdelco-para-chevy-corsa-aveo-astra-tornado-ibiza-hummer-ford-buick-dodge-isuzu-cadillac.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Batería de auto",
+        "category": "Baterías",
+        "brand": "LTH",
+        "price": 1800.00,
+        "stock": 20,
+        "description": "Batería de alto rendimiento con garantía de 2 años.",
+        "compatible_models": ["Nissan Sentra", "Nissan Altima", "Nissan Tiida"],
+        "image_url": "https://useast2prodbrandsites.blob.core.windows.net/lth-sfassets-prod/images/default-source/products/product-brands/baterias/lth-nacional/l-99(lbn1)-400-izq.png?sfvrsn=886cdd40_2"
+      },
+      {
+        "id": 13,
+        "name": "Juego de pastillas de freno",
+        "category": "Frenos",
+        "brand": "Bosch",
+        "price": 1200.00,
+        "stock": 35,
+        "description": "Pastillas de freno de larga duración.",
+        "compatible_models": ["Honda Civic", "Honda Accord", "Honda Fit"],
+        "image_url": "https://www.serviclutchyfrenos.com/images/projects/project02.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Amortiguadores",
+        "category": "Suspensión",
+        "brand": "Monroe",
+        "price": 900.00,
+        "stock": 40,
+        "description": "Amortiguadores de gas para mejor absorción de impactos.",
+        "compatible_models": ["Toyota Corolla", "Toyota Camry", "Toyota Yaris"],
+        "image_url": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/a/AmazonStores/A1AM78C64UM0Y8/fbd5264239d1db4bcd4fef9738495f80.w1920.h1080.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Bujías",
+        "category": "Encendido",
+        "brand": "NGK",
+        "price": 100.00,
+        "stock": 100,
+        "description": "Bujías de iridio para un mejor rendimiento del motor.",
+        "compatible_models": ["Mazda 3", "Mazda 6", "Mazda CX-5"],
+        "image_url": "https://m.media-amazon.com/images/I/71vaTpLe27L._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Filtro de aire",
+        "category": "Filtros",
+        "brand": "Mann-Filter",
+        "price": 200.00,
+        "stock": 60,
+        "description": "Filtro de aire de alta eficiencia.",
+        "compatible_models": ["Ford Fiesta", "Ford Focus", "Ford Fusion"],
+        "image_url": "https://m.media-amazon.com/images/I/71-X7StN2ML._AC_UF894,1000_QL80_.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Llanta",
+        "category": "Llantas",
+        "brand": "Michelin",
+        "price": 2500.00,
+        "stock": 30,
+        "description": "Llanta radial de alto rendimiento.",
+        "compatible_models": ["BMW 3 Series", "BMW 5 Series", "BMW X3"],
+        "image_url": "https://llantasdelaustro.com/wp-content/uploads/2022/06/MICHELIN-LTX-FORCE_AUSTRO.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Aceite para motor",
+        "category": "Aceites",
+        "brand": "Mobil 1",
+        "price": 550.00,
+        "stock": 70,
+        "description": "Aceite sintético para motor 5W-30.",
+        "compatible_models": ["Audi A4", "Audi Q5", "Audi A3"],
+        "image_url": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00007192470222L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+      },
+      {
+        "id": 19,
+        "name": "Filtro de combustible",
+        "category": "Filtros",
+        "brand": "Fram",
+        "price": 300.00,
+        "stock": 55,
+        "description": "Filtro de combustible de alta eficiencia.",
+        "compatible_models": ["Hyundai Elantra", "Hyundai Sonata", "Hyundai Tucson"],
+        "image_url": "https://m.media-amazon.com/images/I/71vVhIVYjeL.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Espejo retrovisor",
+        "category": "Accesorios",
+        "brand": "CIPA",
+        "price": 400.00,
+        "stock": 25,
+        "description": "Espejo retrovisor universal.",
+        "compatible_models": ["Volkswagen Jetta", "Volkswagen Golf", "Vol,kswagen Passat"],
+        "image_url": "https://m.media-amazon.com/images/I/41omMX2uzVL._AC_UF894,1000_QL80_.jpg"
+      }
+    ]
+}
+  

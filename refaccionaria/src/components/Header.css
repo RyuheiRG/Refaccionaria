@@ -1,0 +1,51 @@
+/* Estilos para el encabezado */
+.header {
+    background-color: #343a40;
+    color: white;
+    padding: 10px 0;
+  }
+  
+  .header .container-head {
+    display: grid;
+    grid-template-columns: auto 1fr auto auto;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 0 20px;
+  }
+  
+  .header .logo-car {
+    height: 80px;
+  }
+  
+  .header .user {
+    text-align: right;
+  }
+  
+  .header .profile, .header .sing-in {
+    color: white;
+    font-size: 14px;
+  }
+  
+  .header .search {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header .search input[type="search"] {
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+  }
+  
+  .header .search button {
+    background: none;
+    border: none;
+    margin-left: 5px;
+  }
+  
+  .header .search .search-btn {
+    height: 20px;
+  }
+
+  
